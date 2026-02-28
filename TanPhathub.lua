@@ -14,7 +14,7 @@ if idplace == 73956553001240 then
 elseif idplace == 85207102870777 or idplace == 12137249458 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/duongngoctuan571-jpg/FPSGun/main/TanPhatAim.lua"))()	
 elseif idplace == 85211729168715 or idplace == 79091703265657 or idplace == 100117331123089 then
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/duongngoctuan571-jpg/TongHop/refs/heads/main/TanPhatHub.lua"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/NaNacuti/nanabeo/refs/heads/main/NaNaTVHub.lua"))()
 elseif idplace == 98502499119821 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/bvect1037-alt/KhfreshHub/refs/heads/main/HeavyWeightFishing"))()
 elseif idplace == 119579217517090 then
